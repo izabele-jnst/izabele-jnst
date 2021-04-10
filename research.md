@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+[Home](./). [CV](./assets/files/CV.pdf). [Research](./research.md). [Projects](./projects.md). [Blog](./thought.md). [Personal](./about.md). [Links & Resources](./links-resources.md).
 
 ### Research 
 

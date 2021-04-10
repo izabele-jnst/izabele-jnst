@@ -40,4 +40,4 @@ I enjoy teaching a diverse set of topics. I also worked as a TA for:
 [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral), Fall 2017
 
 
-[home](./)
+[Home](./)

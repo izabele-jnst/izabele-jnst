@@ -1,4 +1,4 @@
-https://jeremyzyang.github.io
+https://izabele-jnst.github.io/izabele-jnst/
 
 # The Minimal theme
 
